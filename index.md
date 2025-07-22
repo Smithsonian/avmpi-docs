@@ -1,5 +1,5 @@
 ---
-title: AVMPI Documentation
+title: About
 layout: home
 ---
 
